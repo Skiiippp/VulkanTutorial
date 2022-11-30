@@ -6,3 +6,5 @@ gauge the difficulty of learning Vulkan for students who do not have explicit co
 
 
 This repo contains the code I write as I follow along with the tutorial.
+
+The ultimate goal is to render a cube with textures.
